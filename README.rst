@@ -8,6 +8,10 @@ To run
 
 ``elm reactor``
 
+Navigate to:
+
+``localhost:8000/index.html``
+
 haiku
 -----
 
